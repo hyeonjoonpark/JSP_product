@@ -9,26 +9,26 @@
     ├─ /.settings
     ├─ /build
     ├─ /src
-      └─ /main
-        ├─ /java
-          ├─ /META_INF
-            └─ MANIFEST.MF
-          ├─ /WEB_INF
-            └─ /lib
-              └─ ojdbc6.jar
-          ├─ action.jsp
-          ├─ check.js
-          ├─ footer.jsp
-          ├─ header.jsp
-          ├─ index.jsp
-          ├─ insert.jsp
-          ├─ list.jsp
-          ├─ list2.jsp
-          ├─ list3.jsp
-          ├─ style.css
-        ├─ webapp
+    │ └─ /main
+    │   ├─ /java
+    │   │   ├─ /META_INF
+    │   │   │ └─ MANIFEST.MF
+    │   │   ├─ /WEB_INF
+    │   │   │ └─ /lib
+    │   │   │   └─ ojdbc6.jar
+    │   │   ├─ action.jsp
+    │   │   ├─ check.js
+    │   │   ├─ footer.jsp
+    │   │   ├─ header.jsp
+    │   │   ├─ index.jsp
+    │   │   ├─ insert.jsp
+    │   │   ├─ list.jsp
+    │   │   ├─ list2.jsp
+    │   │   ├─ list3.jsp
+    │   │   ├─ style.css
+    │   ├─ webapp
     ├─ .classpath
-    ├─ .project
+    └─ .project
     
 ```
 
