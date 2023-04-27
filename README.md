@@ -11,7 +11,7 @@
     ├─ /src
     │ └─ /main
     │   ├─ /java
-    │   │   ├─ /META_INF
+    │   │   └─ /META_INF
     │   │   │ └─ MANIFEST.MF
     │   │   ├─ /WEB_INF
     │   │   │ └─ /lib
@@ -25,11 +25,11 @@
     │   │   ├─ list.jsp
     │   │   ├─ list2.jsp
     │   │   ├─ list3.jsp
-    │   │   ├─ style.css
-    │   ├─ webapp
+    │   │   └─ style.css
+    │   └─ webapp
     ├─ .classpath
     └─ .project
     
 ```
 
-├─
+
